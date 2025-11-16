@@ -1,1 +1,1 @@
-# MusAC
+Latex files

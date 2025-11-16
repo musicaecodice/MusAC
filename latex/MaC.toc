@@ -1,0 +1,247 @@
+\contentsline {chapter}{\numberline {1}Premises}{11}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Preliminary reflections}{11}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}Concrete things}{11}{subsection.1.1.1}%
+\contentsline {subsection}{\numberline {1.1.2}Pre-linguistic}{12}{subsection.1.1.2}%
+\contentsline {subsubsection}{Natural language}{13}{section*.3}%
+\contentsline {subsubsection}{Musical language}{13}{section*.4}%
+\contentsline {subsection}{\numberline {1.1.3}Compose a phone number}{14}{subsection.1.1.3}%
+\contentsline {subsubsection}{Phonetic-phonological level }{14}{section*.5}%
+\contentsline {subsubsection}{Morphosyntactic level }{15}{section*.6}%
+\contentsline {subsubsection}{Syntactic level }{15}{section*.7}%
+\contentsline {subsubsection}{Semantic level}{17}{section*.8}%
+\contentsline {subsection}{\numberline {1.1.4}Perceive and process }{18}{subsection.1.1.4}%
+\contentsline {subsection}{\numberline {1.1.5}Re-compose a puzzle}{19}{subsection.1.1.5}%
+\contentsline {section}{\numberline {1.2}Music's meanings }{19}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}Signs and sounds }{20}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.2}Composers, players and listeners }{21}{subsection.1.2.2}%
+\contentsline {subsection}{\numberline {1.2.3}Do you know this music? }{22}{subsection.1.2.3}%
+\contentsline {subsection}{\numberline {1.2.4}Do you like this music?}{23}{subsection.1.2.4}%
+\contentsline {subsection}{\numberline {1.2.5}Texts and narratives}{24}{subsection.1.2.5}%
+\contentsline {section}{\numberline {1.3}Forms of human expression}{25}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}Poietic dimension}{25}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.3.2}Aesthesic dimension}{26}{subsection.1.3.2}%
+\contentsline {subsection}{\numberline {1.3.3}The work itself}{27}{subsection.1.3.3}%
+\contentsline {subsection}{\numberline {1.3.4}Final reflections}{28}{subsection.1.3.4}%
+\contentsline {chapter}{\numberline {2}Genres, instruments and tools}{31}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Genres}{31}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Non interactive systems}{31}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Fixed media music }{32}{subsection.2.2.1}%
+\contentsline {subsubsection}{Acousmatic music }{32}{section*.9}%
+\contentsline {subsubsection}{Wallpaper music, ambient music and soundscapes }{34}{section*.10}%
+\contentsline {subsubsection}{Radiodrama }{35}{section*.11}%
+\contentsline {subsubsection}{Computer music - algorithmic composition}{36}{section*.12}%
+\contentsline {subsection}{\numberline {2.2.2}Live sequencing}{37}{subsection.2.2.2}%
+\contentsline {subsubsection}{Sound design for performing arts or video }{37}{section*.13}%
+\contentsline {subsubsection}{Sound design for gaming}{38}{section*.14}%
+\contentsline {section}{\numberline {2.3}Interactive systems }{38}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Live set }{39}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Hyper-instrument}{40}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}Live coding}{40}{subsection.2.3.3}%
+\contentsline {section}{\numberline {2.4}The virtual instrument paradigm}{41}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Software installation }{41}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}Instrumental model}{41}{subsection.2.4.2}%
+\contentsline {section}{\numberline {2.5}Composition sketches proposal}{43}{section.2.5}%
+\contentsline {chapter}{\numberline {3}Fixed media}{45}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Framework and historical context}{45}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Elements and strategies}{45}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Sound objects}{46}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Objects, structure and form }{46}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}Musical objects}{47}{subsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.2.4}Time courses and musical forms}{49}{subsection.3.2.4}%
+\contentsline {subsection}{\numberline {3.2.5}The poietic dimension: determinism}{50}{subsection.3.2.5}%
+\contentsline {section}{\numberline {3.3}Sound processing techniques in SuperCollider}{52}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Buffers}{52}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Sampling }{53}{subsection.3.3.2}%
+\contentsline {subsubsection}{Sequencing}{54}{section*.15}%
+\contentsline {subsubsection}{Enveloping}{55}{section*.16}%
+\contentsline {subsection}{\numberline {3.3.3}Scratching}{56}{subsection.3.3.3}%
+\contentsline {subsection}{\numberline {3.3.4}Structures, DAW and scoring}{58}{subsection.3.3.4}%
+\contentsline {subsection}{\numberline {3.3.5}Composition sketches proposal}{60}{subsection.3.3.5}%
+\contentsline {chapter}{\numberline {4}Computer music}{61}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Framework and historical context}{61}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Randomness}{62}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Chance }{63}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Indeterminacy}{64}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.2.3}Alea}{66}{subsection.4.2.3}%
+\contentsline {section}{\numberline {4.3}Sound synthesis}{68}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Additive}{69}{subsection.4.3.1}%
+\contentsline {subsubsection}{Wavetables}{69}{section*.17}%
+\contentsline {subsubsection}{Vectorial}{70}{section*.18}%
+\contentsline {subsubsection}{PWM}{71}{section*.19}%
+\contentsline {subsubsection}{Classic}{73}{section*.20}%
+\contentsline {subsection}{\numberline {4.3.2}Subtractive}{75}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.3.3}FM}{78}{subsection.4.3.3}%
+\contentsline {subsection}{\numberline {4.3.4}Granular}{80}{subsection.4.3.4}%
+\contentsline {subsection}{\numberline {4.3.5}FFT}{84}{subsection.4.3.5}%
+\contentsline {subsubsection}{Spectral Delay}{85}{section*.21}%
+\contentsline {subsubsection}{Brick Wall filter}{85}{section*.22}%
+\contentsline {subsubsection}{Rect Comb filter}{86}{section*.23}%
+\contentsline {subsubsection}{Mag Smear}{86}{section*.24}%
+\contentsline {subsubsection}{Freeze}{87}{section*.25}%
+\contentsline {subsubsection}{Cross synthesys.}{87}{section*.26}%
+\contentsline {section}{\numberline {4.4}Algorithmic structures}{88}{section.4.4}%
+\contentsline {section}{\numberline {4.5}Composition sketches proposal}{90}{section.4.5}%
+\contentsline {chapter}{\numberline {5}Algorithmic composition}{91}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Framework and historical context}{91}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Software installation}{92}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Symbolic musical representation and numbers}{93}{section.5.3}%
+\contentsline {subsection}{\numberline {5.3.1}Pitch}{93}{subsection.5.3.1}%
+\contentsline {subsection}{\numberline {5.3.2}Rhythm}{94}{subsection.5.3.2}%
+\contentsline {subsection}{\numberline {5.3.3}Dynamic}{95}{subsection.5.3.3}%
+\contentsline {subsection}{\numberline {5.3.4}Collections}{96}{subsection.5.3.4}%
+\contentsline {subsection}{\numberline {5.3.5}Live}{97}{subsection.5.3.5}%
+\contentsline {section}{\numberline {5.4}Generative techniques and processes}{97}{section.5.4}%
+\contentsline {subsection}{\numberline {5.4.1}Modes and scales}{97}{subsection.5.4.1}%
+\contentsline {subsubsection}{Scale}{98}{section*.27}%
+\contentsline {subsubsection}{Incises and motives}{98}{section*.28}%
+\contentsline {subsubsection}{Variations}{101}{section*.29}%
+\contentsline {subsection}{\numberline {5.4.2}Harmonic fields}{105}{subsection.5.4.2}%
+\contentsline {subsubsection}{Chord database}{106}{section*.30}%
+\contentsline {subsubsection}{Voicing}{107}{section*.31}%
+\contentsline {subsubsection}{Voice-leading}{108}{section*.32}%
+\contentsline {subsubsection}{Melodies}{110}{section*.33}%
+\contentsline {paragraph}{Top note}{111}{section*.34}%
+\contentsline {paragraph}{Random note}{111}{section*.35}%
+\contentsline {paragraph}{Arpeggiating note}{111}{section*.36}%
+\contentsline {paragraph}{Voice-leading style}{111}{section*.37}%
+\contentsline {section}{\numberline {5.5}Composition sketches proposal}{112}{section.5.5}%
+\contentsline {chapter}{\numberline {6}From live set to laptop ensemble}{113}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Historical framework}{113}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}Experimental fields}{113}{subsection.6.1.1}%
+\contentsline {paragraph}{Sonic Art Union}{114}{section*.38}%
+\contentsline {paragraph}{AMM in London}{114}{section*.39}%
+\contentsline {paragraph}{Musica Elettronica Viva in Rome }{114}{section*.40}%
+\contentsline {paragraph}{Karlheinz Stockhousen - Intuitive musik}{114}{section*.41}%
+\contentsline {subsection}{\numberline {6.1.2}Mainstream fields}{116}{subsection.6.1.2}%
+\contentsline {section}{\numberline {6.2}Interaction types}{117}{section.6.2}%
+\contentsline {subsection}{\numberline {6.2.1}Trigger}{117}{subsection.6.2.1}%
+\contentsline {subsection}{\numberline {6.2.2}Switch}{118}{subsection.6.2.2}%
+\contentsline {subsection}{\numberline {6.2.3}Continuos}{118}{subsection.6.2.3}%
+\contentsline {subsection}{\numberline {6.2.4}Conversions}{119}{subsection.6.2.4}%
+\contentsline {subsubsection}{Smoothing}{119}{section*.42}%
+\contentsline {subsubsection}{Sample and hold}{119}{section*.43}%
+\contentsline {subsubsection}{Thresholds}{120}{section*.44}%
+\contentsline {section}{\numberline {6.3}Control signals}{121}{section.6.3}%
+\contentsline {subsection}{\numberline {6.3.1}Types}{122}{subsection.6.3.1}%
+\contentsline {subsection}{\numberline {6.3.2}Scaling}{122}{subsection.6.3.2}%
+\contentsline {subsection}{\numberline {6.3.3}Plugging}{122}{subsection.6.3.3}%
+\contentsline {section}{\numberline {6.4}MIDI}{123}{section.6.4}%
+\contentsline {subsection}{\numberline {6.4.1}Receive}{124}{subsection.6.4.1}%
+\contentsline {subsection}{\numberline {6.4.2}Send}{125}{subsection.6.4.2}%
+\contentsline {subsection}{\numberline {6.4.3}Voice allocation}{125}{subsection.6.4.3}%
+\contentsline {subsubsection}{Monophonic synth}{125}{section*.45}%
+\contentsline {subsubsection}{Poliphonic synth without sustain envelope}{126}{section*.46}%
+\contentsline {subsubsection}{Poliphonic synth with sustain envelope}{127}{section*.47}%
+\contentsline {section}{\numberline {6.5}OSC}{127}{section.6.5}%
+\contentsline {subsection}{\numberline {6.5.1}Receive}{128}{subsection.6.5.1}%
+\contentsline {subsection}{\numberline {6.5.2}Send}{128}{subsection.6.5.2}%
+\contentsline {section}{\numberline {6.6}HID}{129}{section.6.6}%
+\contentsline {subsection}{\numberline {6.6.1}Mouse}{129}{subsection.6.6.1}%
+\contentsline {subsubsection}{Client side}{129}{section*.48}%
+\contentsline {paragraph}{.mouseDownAction}{130}{section*.49}%
+\contentsline {paragraph}{.mouseUpAction}{131}{section*.50}%
+\contentsline {paragraph}{.mouseMoveAction}{131}{section*.51}%
+\contentsline {paragraph}{.mouseOverAction}{132}{section*.52}%
+\contentsline {subsubsection}{Server side}{133}{section*.53}%
+\contentsline {subsection}{\numberline {6.6.2}Keyboard}{133}{subsection.6.6.2}%
+\contentsline {subsubsection}{Client side}{133}{section*.54}%
+\contentsline {paragraph}{.keyDownAction}{134}{section*.55}%
+\contentsline {paragraph}{.keyUpAction}{134}{section*.56}%
+\contentsline {subsubsection}{Server side}{136}{section*.57}%
+\contentsline {section}{\numberline {6.7}Live playback and synthesis}{136}{section.6.7}%
+\contentsline {subsection}{\numberline {6.7.1}One shot}{136}{subsection.6.7.1}%
+\contentsline {subsection}{\numberline {6.7.2}Mapping}{137}{subsection.6.7.2}%
+\contentsline {subsubsection}{Key \(\rightarrow \) soundfile }{138}{section*.58}%
+\contentsline {subsubsection}{Key \(\rightarrow \) playback rate (transposition) }{138}{section*.59}%
+\contentsline {subsubsection}{Key \(\rightarrow \) start position }{139}{section*.60}%
+\contentsline {subsection}{\numberline {6.7.3}Cues}{140}{subsection.6.7.3}%
+\contentsline {section}{\numberline {6.8}Composition sketches proposal}{141}{section.6.8}%
+\contentsline {chapter}{\numberline {7}Mixed music and hyper-instruments}{143}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Framework and historical context}{143}{section.7.1}%
+\contentsline {subsection}{\numberline {7.1.1}Sound and formal augmentation}{143}{subsection.7.1.1}%
+\contentsline {subsection}{\numberline {7.1.2}Augmentation of acoustic instruments}{144}{subsection.7.1.2}%
+\contentsline {subsection}{\numberline {7.1.3}Common topics to think about}{145}{subsection.7.1.3}%
+\contentsline {section}{\numberline {7.2}Software model}{145}{section.7.2}%
+\contentsline {subsection}{\numberline {7.2.1}Routing signals}{148}{subsection.7.2.1}%
+\contentsline {subsubsection}{In/Out}{148}{section*.61}%
+\contentsline {subsubsection}{Public vs private buses}{149}{section*.62}%
+\contentsline {subsubsection}{Creation order rules and Groups}{150}{section*.63}%
+\contentsline {section}{\numberline {7.3}Feature extraction as control signals}{150}{section.7.3}%
+\contentsline {subsection}{\numberline {7.3.1}Envelope follower}{151}{subsection.7.3.1}%
+\contentsline {subsection}{\numberline {7.3.2}Pitch follower}{153}{subsection.7.3.2}%
+\contentsline {subsection}{\numberline {7.3.3}Onset detection}{155}{subsection.7.3.3}%
+\contentsline {subsection}{\numberline {7.3.4}Spectral features}{156}{subsection.7.3.4}%
+\contentsline {section}{\numberline {7.4}Classic live electronics sound processing}{157}{section.7.4}%
+\contentsline {subsection}{\numberline {7.4.1}Ring modulation and frequency shifting}{159}{subsection.7.4.1}%
+\contentsline {subsection}{\numberline {7.4.2}Live recording and playback}{161}{subsection.7.4.2}%
+\contentsline {subsubsection}{Asynchronous}{162}{section*.64}%
+\contentsline {subsubsection}{Loop station}{163}{section*.65}%
+\contentsline {subsection}{\numberline {7.4.3}Granular synthesis}{165}{subsection.7.4.3}%
+\contentsline {subsubsection}{Asynchronous}{165}{section*.66}%
+\contentsline {subsubsection}{Synchronous (harmonizer)}{167}{section*.67}%
+\contentsline {subsection}{\numberline {7.4.4}Delay lines}{169}{subsection.7.4.4}%
+\contentsline {subsubsection}{Echo}{169}{section*.68}%
+\contentsline {subsubsection}{Feedback gain}{170}{section*.69}%
+\contentsline {subsubsection}{Feedback duration}{171}{section*.70}%
+\contentsline {subsubsection}{Ping pong}{171}{section*.71}%
+\contentsline {subsubsection}{Multi Tap}{172}{section*.72}%
+\contentsline {subsubsection}{Variable time}{173}{section*.73}%
+\contentsline {subsubsection}{Filtred}{173}{section*.74}%
+\contentsline {subsubsection}{Resonator}{174}{section*.75}%
+\contentsline {subsection}{\numberline {7.4.5}Multichannel panning}{175}{subsection.7.4.5}%
+\contentsline {subsubsection}{Mono, dual-mono and multi-mono panning}{175}{section*.76}%
+\contentsline {subsubsection}{Stereo}{176}{section*.77}%
+\contentsline {subsubsection}{Quadriphony}{177}{section*.78}%
+\contentsline {subsubsection}{Circular systems}{179}{section*.79}%
+\contentsline {section}{\numberline {7.5}Composition sketches proposal}{180}{section.7.5}%
+\contentsline {chapter}{Appendices}{181}{section*.80}%
+\contentsline {chapter}{\numberline {A}SuperCollider basics}{183}{appendix.1.A}%
+\contentsline {section}{\numberline {A.1}User interface}{183}{section.1.A.1}%
+\contentsline {section}{\numberline {A.2}Architecture}{184}{section.1.A.2}%
+\contentsline {section}{\numberline {A.3}Main commands}{184}{section.1.A.3}%
+\contentsline {subsection}{\numberline {A.3.1}New file}{184}{subsection.1.A.3.1}%
+\contentsline {subsection}{\numberline {A.3.2}Open file}{184}{subsection.1.A.3.2}%
+\contentsline {subsection}{\numberline {A.3.3}Lines of code}{185}{subsection.1.A.3.3}%
+\contentsline {subsection}{\numberline {A.3.4}Evaluate the code}{185}{subsection.1.A.3.4}%
+\contentsline {subsection}{\numberline {A.3.5}Execution order}{185}{subsection.1.A.3.5}%
+\contentsline {subsection}{\numberline {A.3.6}Error messages}{186}{subsection.1.A.3.6}%
+\contentsline {subsection}{\numberline {A.3.7}Clear Post window}{186}{subsection.1.A.3.7}%
+\contentsline {subsection}{\numberline {A.3.8}Comments}{186}{subsection.1.A.3.8}%
+\contentsline {subsection}{\numberline {A.3.9}Save file}{186}{subsection.1.A.3.9}%
+\contentsline {subsection}{\numberline {A.3.10}Data types}{186}{subsection.1.A.3.10}%
+\contentsline {section}{\numberline {A.4}Audio}{187}{section.1.A.4}%
+\contentsline {subsection}{\numberline {A.4.1}Server boot}{187}{subsection.1.A.4.1}%
+\contentsline {subsection}{\numberline {A.4.2}Stopping ongoing processes including audio}{187}{subsection.1.A.4.2}%
+\contentsline {subsection}{\numberline {A.4.3}Boot info}{188}{subsection.1.A.4.3}%
+\contentsline {subsection}{\numberline {A.4.4}Global variables, classes and messages}{188}{subsection.1.A.4.4}%
+\contentsline {subsubsection}{Variable}{188}{section*.81}%
+\contentsline {subsubsection}{Class}{189}{section*.82}%
+\contentsline {subsubsection}{Message}{189}{section*.83}%
+\contentsline {subsection}{\numberline {A.4.5}Server settings}{189}{subsection.1.A.4.5}%
+\contentsline {section}{\numberline {A.5}UGens}{190}{section.1.A.5}%
+\contentsline {section}{\numberline {A.6}Monitors}{193}{section.1.A.6}%
+\contentsline {subsection}{\numberline {A.6.1}Computational activity}{194}{subsection.1.A.6.1}%
+\contentsline {subsection}{\numberline {A.6.2}Audio and control signals}{194}{subsection.1.A.6.2}%
+\contentsline {subsubsection}{Server inputs and outputs}{194}{section*.84}%
+\contentsline {subsubsection}{UGens inputs and outputs}{195}{section*.85}%
+\contentsline {section}{\numberline {A.7}Help files}{195}{section.1.A.7}%
+\contentsline {section}{\numberline {A.8}Web resources}{195}{section.1.A.8}%
+\contentsline {chapter}{\numberline {B}Components, connections and parameters}{197}{appendix.1.B}%
+\contentsline {section}{\numberline {B.1}Source}{197}{section.1.B.1}%
+\contentsline {subsection}{\numberline {B.1.1}Oscillators}{197}{subsection.1.B.1.1}%
+\contentsline {subsubsection}{Lookup}{197}{section*.86}%
+\contentsline {subsubsection}{Interpolating wavetable oscillator}{198}{section*.87}%
+\contentsline {subsubsection}{Sample playback oscillator}{200}{section*.88}%
+\contentsline {subsubsection}{Buffer reading oscillator}{201}{section*.89}%
+\contentsline {subsection}{\numberline {B.1.2}Input signals}{201}{subsection.1.B.1.2}%
+\contentsline {section}{\numberline {B.2}Ampltude envelope}{202}{section.1.B.2}%
+\contentsline {subsection}{\numberline {B.2.1}Representations and units of measurement}{203}{subsection.1.B.2.1}%
+\contentsline {subsection}{\numberline {B.2.2}Scaling}{205}{subsection.1.B.2.2}%
+\contentsline {subsection}{\numberline {B.2.3}Interpolations and ramps}{205}{subsection.1.B.2.3}%
+\contentsline {subsection}{\numberline {B.2.4}BPF and control signals}{207}{subsection.1.B.2.4}%
+\contentsline {subsubsection}{Env and EnvGen class}{207}{section*.90}%
+\contentsline {subsection}{\numberline {B.2.5}Triggers, envelope types and durations}{210}{subsection.1.B.2.5}%
+\contentsline {subsubsection}{Without sustain}{210}{section*.91}%
+\contentsline {subsubsection}{With sustain}{212}{section*.92}%
+\contentsline {section}{\numberline {B.3}Pan}{213}{section.1.B.3}%
+\contentsline {section}{\numberline {B.4}Output}{216}{section.1.B.4}%
