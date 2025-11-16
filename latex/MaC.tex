@@ -4,7 +4,7 @@
 \usepackage{iftex}
 \tracinglostchars=2
 \ifTUTeX
-  \usepackage{fontspec}
+\usepackage{fontspec}
 \else
   \usepackage[T1]{fontenc}
   \usepackage[utf8]{inputenc} % The default since 2018
@@ -61,24 +61,24 @@
   rulecolor=\color{black},                        
   stepnumber=1,                        
   tabsize=2	                      
-}
+        }
 
 \setcounter{tocdepth}{3} % Include subsub section in indice
 \usepackage[toc,page]{appendix}  
 % ===============================================================
 \graphicspath{
-              {../1_premises/img/},
-              {../2_instruments/img/},
-              {../3_fixed/img/},
-              {../4_cmusic/img/}
-              {../5_cac/img/}
-              {../6_lvset/img/}
-              {../7_hyper/img/}
-         %     {../8_lvcod/img/}
-         %     {../9_lvcod/img/}
-         %     {../10_lvcod/img/}
-              {../11_a1/img/}
-              {../12_a2/img/}
+              {../img/1_img/},
+              {../img/2_img/},
+              {../img/3_img/},
+              {../img/4_img/}
+              {../img/5_img/}
+              {../img/6_img/}
+              {../img/7_img/}
+         %     {../img/8_img/}
+         %     {../img/9_img/}
+         %     {../img/10_img/}
+              {../img/11_img/}
+              {../img/12_img/}
               }
 
 \begin{document}
@@ -120,19 +120,19 @@ Check first page to see the last date version.
 
 \tableofcontents
 
-\input{../1_premises/latex/1_premises.tex}
-\input{../2_instruments/latex/2_instruments.tex}
-\input{../3_fixed/latex/3_fixed.tex}
-\input{../4_cmusic/latex/4_cmusic.tex}
-\input{../5_cac/latex/5_cac.tex}
-\input{../6_lvset/latex/6_lvset.tex}
-\input{../7_hyper/latex/7_hyper.tex}
-%\input{../8_lvcod/latex/8_lvcod.tex}
-%\input{../9_lvcod/latex/8_lvcod.tex}
-%\input{../10_lvcod/latex/8_lvcod.tex}
+\input{../chapters/1_premises.tex}
+\input{../chapters/2_instruments.tex}
+\input{../chapters/3_fixed.tex}
+\input{../chapters/4_cmusic.tex}
+\input{../chapters/5_cac.tex}
+\input{../chapters/6_lvset.tex}
+\input{../chapters/7_hyper.tex}
+%\input{../chapters/8_lvcod.tex}
+%\input{../chapters/8_lvcod.tex}
+%\input{../chapters/8_lvcod.tex}
 \begin{appendices}
-\input{../11_A1/latex/11_A1.tex}
-\input{../12_A2/latex/12_A2.tex}
+\input{../chapters/11_A1.tex}
+\input{../chapters/12_A2.tex}
 \end{appendices}
 
 \lstlistoflistings
